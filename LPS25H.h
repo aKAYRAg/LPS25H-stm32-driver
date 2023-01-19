@@ -19,6 +19,4 @@ void LPS25H_init(void);
 float read_data_temp(void);
 float read_data_pressure(void);
 
-int LPS25H_testID(void);
-
 #endif /* INC_LPS25H_H_ */
