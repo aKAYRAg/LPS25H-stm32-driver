@@ -15,4 +15,4 @@
       
 5- use temp data func like this(in loop)
 
-    	temp = read_data_temp();
+    temp = read_data_temp();
